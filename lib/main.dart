@@ -53,7 +53,7 @@ class MyApp extends StatelessWidget {
           ),
           themeMode: ThemeMode.system,
           debugShowCheckedModeBanner: false,
-          initialRoute: RouteGenerator.navigationPage,
+          initialRoute: RouteGenerator.splashPage,
           onGenerateRoute: RouteGenerator.generateRoute,
         ),
       ),

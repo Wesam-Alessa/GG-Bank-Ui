@@ -11,7 +11,7 @@ class SelectCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SizedBox(
-      height: 220.h,
+      height: 235.h,
       width: double.infinity,
       child: Stack(
         children: [

@@ -11,7 +11,7 @@ class BalanceCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SizedBox(
-      height: 95.h,
+      height: 110.h,
       width: double.infinity,
       child: Stack(
         children: [

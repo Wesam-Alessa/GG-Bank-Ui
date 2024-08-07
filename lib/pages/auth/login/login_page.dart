@@ -33,7 +33,7 @@ class LoginPage extends StatelessWidget {
                   height: 200.h,
                 ),
                 Text(
-                  'Holla, Welcome Back!',
+                  'Hello, Welcome Back!',
                   style: largeTextStyle,
                 ),
                 SizedBox(
